@@ -1,1 +1,5 @@
-test file m
+<<<<<<< HEAD
+test file fix
+=======
+test file fix
+>>>>>>> feature1
