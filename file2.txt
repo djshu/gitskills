@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 test file fix
-=======
-test file fix
->>>>>>> feature1
